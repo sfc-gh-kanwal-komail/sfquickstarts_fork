@@ -33,7 +33,9 @@ This guide will show you how to create your own residential properties analyzer 
 ### What You’ll Build 
 - An **"appreciation of residential properties"** Streamlit app
 
-<!-- ------------------------ -->
+
+
+
 ## Working Principle
 
 For this guide, we turn the audience into the center of attention. To do that, we allow it to select a location from our dataset, which is highlighted during the app's usage. Besides, the app uses a single visual type—the stripplot.
